@@ -1,4 +1,4 @@
-# 🌲🔥 Forest Fire Simulator
+<img width="876" alt="截屏2025-05-20 上午1 19 41" src="https://github.com/user-attachments/assets/c4af5427-950c-4f38-876f-e33984ac8448" /><img width="876" alt="截屏2025-05-20 上午1 19 41" src="https://github.com/user-attachments/assets/77732022-5e55-4cdc-a66d-07595a4828e2" /># 🌲🔥 Forest Fire Simulator
 
 A simple forest fire simulation built with Python and Pygame.  
 This project shows how a forest fire can spread and be affected by wind, rain, and humidity.
@@ -32,3 +32,21 @@ You can install the requirements with:
 
 ```bash
 pip install pygame numpy noise
+
+## 🖼️ Screenshots
+<img width="876" alt="截屏2025-05-20 上午1 19 41" src="https://github.com/user-attachments/assets/192ef9e6-d32b-4d8b-90a7-932ad5f30c01" />
+
+## 🧠 How It Works
+Each tree is represented by a cell in a grid.
+The forest updates every frame:
+Fire spreads to nearby trees based on wind and humidity.
+Trees may burn out and turn to ash.
+Rain reduces the chance of fire spreading.
+Wind can be changed manually using arrow keys.
+Smoke particles add visual realism.
+
+##📜 License
+This project is for educational and personal use.
+
+Feel free to modify or share it — credit is appreciated!
+
