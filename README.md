@@ -46,7 +46,7 @@ Rain reduces the chance of fire spreading.
 Wind can be changed manually using arrow keys.
 Smoke particles add visual realism.
 
-##📜 License
+## 📜 License
 This project is for educational and personal use.
 
 Feel free to modify or share it — credit is appreciated!
